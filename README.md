@@ -2,7 +2,7 @@
 
 In the previous exercise, we estimated the variance for a uniform random variable using:
 
-![](https://render.githubusercontent.com/render/math?math=S^2=\frac{1}{n}\sum_{i=1}^{n}[X_i-\mathbb{E}(X)]^2
+![](https://render.githubusercontent.com/render/math?math=S^2=\frac{1}{n}\sum_{i=1}^{n}[X_i-\mathbb{E}(X)]^2)
 
 Furthermore, we showed that this quantity converged towards a particular value as n increased.  In this exercise, however, I would like you to estimate the variance for a sample mean that is itself calculated from m random variables.  In other words, I want you to write a function to generate:
 
